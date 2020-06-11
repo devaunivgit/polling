@@ -1,2 +1,0 @@
-# polling
-Created with CodeSandbox
