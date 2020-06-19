@@ -39,6 +39,11 @@ export default function App() {
             <h1>Polling Application Entry</h1>
           </Col>
         </Row>
+        <Row>
+          <Col>
+            <div>Polling Description</div>
+          </Col>
+        </Row>
         {questions.map(question => {
           return (
             <React.Fragment key={question.id}>
