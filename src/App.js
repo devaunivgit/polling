@@ -36,7 +36,7 @@ export default function App() {
       <Container>
         <Row>
           <Col>
-            <h1>Polling</h1>
+            <h1>Polling Application</h1>
           </Col>
         </Row>
         {questions.map(question => {
